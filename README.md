@@ -55,3 +55,9 @@ open browser at : http://localhost:8081
 ```
 
 ![](https://github.com/al03/Xin/blob/master/assets/Screen%20Shot%202017-05-10%20at%205.51.36%20PM.png?raw=true)
+
+
+## Todo
+
+* chart scaleable
+* keep iOS app screen alive
