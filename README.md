@@ -4,13 +4,13 @@ Use apple watch read user heat rate and monitor heart rate data from web.
 
 ## setup server
 
-Go to 'server' directory, run:
+Go to `server` directory, run:
 
-  $ npm install
+  	$ npm install
 
 or
 
-  & yarn
+  	& yarn
 
 Start server:
 
@@ -25,24 +25,33 @@ Start server:
 
 ## setup app
 
-Go to 'app' directory, run:
+Go to `app` directory, run:
 
-  $ pod install
+ 	 $ pod install
 
-Open 'Xin.xcworkspace' with Xcode.
+Open `Xin.xcworkspace` with Xcode.
 
 Connect your iPhone to mac.
 
 Select your apple watch device from Xcode.
 
-Run 'Xin' watch app on your apple watch.
+![](./assets/Screen Shot 2017-05-10 at 5.55.32 PM.png)
 
-After app lautched on watch, hit 'start' button.
+Run `Xin` watch app on your apple watch.
 
-Lautch 'Xin' app from you iPhone.
+After app lautched on watch, hit `Start` button.
+
+Lautch `Xin` app from you iPhone.
 
 Input server address, hit connect.
 
 ## connct
 
 Watch terminal witch server started, it will print the web address, open it with browser.
+
+```
+new connection
+open browser at : http://localhost:8081
+```
+
+![](./assets/Screen Shot 2017-05-10 at 5.51.36 PM.png)
