@@ -35,7 +35,7 @@ Connect your iPhone to mac.
 
 Select your apple watch device from Xcode.
 
-![](./assets/Screen Shot 2017-05-10 at 5.55.32 PM.png)
+![](https://github.com/al03/Xin/blob/master/assets/Screen%20Shot%202017-05-10%20at%205.55.32%20PM.png?raw=true)
 
 Run `Xin` watch app on your apple watch.
 
@@ -54,4 +54,4 @@ new connection
 open browser at : http://localhost:8081
 ```
 
-![](./assets/Screen Shot 2017-05-10 at 5.51.36 PM.png)
+![](https://github.com/al03/Xin/blob/master/assets/Screen%20Shot%202017-05-10%20at%205.51.36%20PM.png?raw=true)
