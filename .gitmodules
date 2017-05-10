@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:al03/XinApp.git
+[submodule "server"]
+	path = server
+	url = git@github.com:al03/XinServer.git
