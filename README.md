@@ -39,9 +39,9 @@ Select your apple watch device from Xcode.
 
 Run `Xin` watch app on your apple watch.
 
-After app lautched on watch, hit `Start` button.
+After app launched on watch, hit `Start` button.
 
-Lautch `Xin` app from you iPhone.
+Launch `Xin` app from you iPhone.
 
 Input server address, hit connect.
 
